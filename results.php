@@ -1,3 +1,4 @@
+
 <?php
 
 //defined variables with empty values 
